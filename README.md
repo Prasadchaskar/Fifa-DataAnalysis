@@ -12,3 +12,6 @@ This notebook uses several Python packages that come standard with the Anaconda 
 2) pandas: Provides a DataFrame structure to store data in memory and work with it easily and efficiently.
 3) matplotlib: Basic plotting library in Python; most other Python plotting libraries are built on top of it.
 4) Seaborn: Advanced statistical plotting library.
+
+## Conclusions
+I hope you found this example notebook useful for your own work and learned at least one new trick by reading through it.
